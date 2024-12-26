@@ -206,4 +206,8 @@ main {
   .score {
     font-size: 6rem;
   }
+
+  .name{
+    font-size: 2rem;
+  }
 }
