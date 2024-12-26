@@ -172,7 +172,6 @@ main {
   display: none;
 }
 
-
 @media screen and (max-width: 1024px) {
   * {
     overflow: hidden;
@@ -182,10 +181,10 @@ main {
     height: 100vh;
   }
 
-  .player{
+  .player {
     padding: 13rem;
   }
-  
+
   .btn--new {
     top: 11rem;
   }
@@ -196,15 +195,15 @@ main {
     top: 44rem;
   }
 
-  .dice{
+  .dice {
     top: 20rem;
   }
 
-  .current-score{
+  .current-score {
     font-size: 2.3rem;
   }
 
-  .score{
+  .score {
     font-size: 6rem;
   }
 }
